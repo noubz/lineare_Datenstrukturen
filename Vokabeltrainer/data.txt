@@ -1,0 +1,1 @@
+add-hinzufügen,anhängen;door-Tuer;search-suchen;good-gut;list-Liste;book-Buch;house-Haus;remove-entfernen;label-Etikett,Anhänger;computer-Computer;
